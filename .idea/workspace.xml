@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fb5ea1-2717-4495-a361-74987adf7fe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +58,12 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -305,7 +308,7 @@
       <workItem from="1572485078007" duration="2964000" />
       <workItem from="1573116052759" duration="1341000" />
       <workItem from="1573117842209" duration="3332000" />
-      <workItem from="1573192294406" duration="3839000" />
+      <workItem from="1573192294406" duration="4025000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573117895159</created>
@@ -335,11 +338,32 @@
       <option name="project" value="LOCAL" />
       <updated>1573193690375</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change 2">
+      <created>1573204270134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204270134</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change 3">
+      <created>1573204339256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204339257</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change 4">
+      <created>1573204411774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204411775</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42760000" />
+    <option name="totallyTimeSpent" value="42946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,12 +378,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.19616205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.19616205" />
       <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.19616205" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5053305" visible="true" weight="0.27657267" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5053305" visible="true" weight="0.27657267" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49573562" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +461,10 @@
     <MESSAGE value="循环代码" />
     <MESSAGE value="循环代码测试" />
     <MESSAGE value="change 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change 1" />
+    <MESSAGE value="change 2" />
+    <MESSAGE value="change 3" />
+    <MESSAGE value="change 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/认识Python/01-helloPython.py" />
@@ -612,9 +639,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
