@@ -61,7 +61,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="540">
-                <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+                <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -308,7 +308,7 @@
       <workItem from="1572485078007" duration="2964000" />
       <workItem from="1573116052759" duration="1341000" />
       <workItem from="1573117842209" duration="3332000" />
-      <workItem from="1573192294406" duration="4025000" />
+      <workItem from="1573192294406" duration="4130000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573117895159</created>
@@ -359,11 +359,25 @@
       <option name="project" value="LOCAL" />
       <updated>1573204411775</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change 5">
+      <created>1573204450107</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204450107</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change 6">
+      <created>1573204493245</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204493245</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42946000" />
+    <option name="totallyTimeSpent" value="43051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +478,9 @@
     <MESSAGE value="change 2" />
     <MESSAGE value="change 3" />
     <MESSAGE value="change 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="change 4" />
+    <MESSAGE value="change 5" />
+    <MESSAGE value="change 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/认识Python/01-helloPython.py" />
@@ -647,7 +663,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="540">
-            <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
