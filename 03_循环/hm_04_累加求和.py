@@ -13,3 +13,5 @@ while i <= 100:
     result += i
     i += 1
 print("0-100直接的数字求和结果=%d" % result)
+
+print(i)
