@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="98fb5ea1-2717-4495-a361-74987adf7fe2" name="Default Changelist" comment="" />
+=======
     <list default="true" id="98fb5ea1-2717-4495-a361-74987adf7fe2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +21,11 @@
     <SUITE FILE_PATH="coverage/Py$hm_02_Python.coverage" NAME="hm_02_第二个Python程序 Coverage Results" MODIFIED="1572319163547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/Py$hm_02_.coverage" NAME="hm_02_判断年龄改进版 Coverage Results" MODIFIED="1572397774947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/Py$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1572317600424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/Py$hm_05_.coverage" NAME="hm_05_偶数求和 Coverage Results" MODIFIED="1576233220028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
+=======
     <SUITE FILE_PATH="coverage/Py$hm_05_.coverage" NAME="hm_05_偶数求和 Coverage Results" MODIFIED="1573192449025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     <SUITE FILE_PATH="coverage/Py$hm_09_.coverage" NAME="hm_09_格式化输出 Coverage Results" MODIFIED="1572337219941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/Py$hm_04_.coverage" NAME="hm_04_累加求和 Coverage Results" MODIFIED="1573119862297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/Py$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1572321015387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
@@ -47,7 +55,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+=======
       <file pinned="false" current-in-tab="false">
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
         <entry file="file://$PROJECT_DIR$/03_循环/hm_05_偶数求和.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -56,6 +68,8 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -68,6 +82,7 @@
           </provider>
         </entry>
       </file>
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -138,7 +153,11 @@
             <path>
               <item name="Py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Py" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="03_循环" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="00_认识Python" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
             </path>
             <path>
               <item name="Py" type="b2602c69:ProjectViewProjectNode" />
@@ -153,7 +172,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../00work/10git/movie_ule" />
+=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../00work/10git/production-docs" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -168,7 +191,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.hm_05_偶数求和">
+=======
   <component name="RunManager" selected="Python.fz">
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     <configuration name="fz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,8 +308,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Python.hm_05_偶数求和" />
+        <item itemvalue="Python.fz" />
+=======
         <item itemvalue="Python.fz" />
         <item itemvalue="Python.hm_05_偶数求和" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
         <item itemvalue="Python.hm_04_累加求和" />
         <item itemvalue="Python.hm_03_程序计数" />
         <item itemvalue="Python.hm_02_第一个while循环" />
@@ -308,7 +340,15 @@
       <workItem from="1572485078007" duration="2964000" />
       <workItem from="1573116052759" duration="1341000" />
       <workItem from="1573117842209" duration="3332000" />
+<<<<<<< HEAD
+      <workItem from="1573192294406" duration="5276000" />
+      <workItem from="1574300400263" duration="68000" />
+      <workItem from="1574400373380" duration="25000" />
+      <workItem from="1576214645891" duration="5045000" />
+      <workItem from="1576237925196" duration="927000" />
+=======
       <workItem from="1573192294406" duration="4130000" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573117895159</created>
@@ -373,11 +413,33 @@
       <option name="project" value="LOCAL" />
       <updated>1573204493245</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00010" summary="change 7">
+      <created>1573204559379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204559379</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update bak20191213">
+      <created>1576238077915</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576238077915</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50270000" />
+=======
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="43051000" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,12 +454,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.20682302" />
+=======
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.19616205" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.19616205" />
       <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.19616205" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5053305" weight="0.27657267" />
+=======
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5053305" visible="true" weight="0.27657267" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49573562" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,7 +550,13 @@
     <MESSAGE value="change 4" />
     <MESSAGE value="change 5" />
     <MESSAGE value="change 6" />
+<<<<<<< HEAD
+    <MESSAGE value="change 7" />
+    <MESSAGE value="update bak20191213" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bak20191213" />
+=======
     <option name="LAST_COMMIT_MESSAGE" value="change 6" />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/认识Python/01-helloPython.py" />
@@ -540,6 +616,8 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/01_Python基础/hm_09_格式化输出.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -547,6 +625,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
     <entry file="file://$PROJECT_DIR$/01_Python基础/hm_08_买苹果改进.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -647,6 +726,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+=======
     <entry file="file://$PROJECT_DIR$/03_循环/hm_05_偶数求和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -655,17 +745,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
       <provider editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
+<<<<<<< HEAD
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Python基础/hm_09_格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_循环/hm_05_偶数求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+=======
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="540">
             <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           </first_editor>
           <second_editor />
+>>>>>>> 6f9a9d2aec333d5e3a4bf8543ad43e508e7001fe
         </state>
       </provider>
     </entry>
