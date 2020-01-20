@@ -44,7 +44,9 @@ def check_aliveness(ip, port):
 if __name__=='__main__':
     # pingServerCall(server)
     # pingServer(server)
+
     check_aliveness('220.241.124.225', 6798)
+    check_aliveness('119.161.101.132', 6798)
     check_aliveness('172.18.62.100', 6798)
     check_aliveness('69.172.86.212', 6262)
     check_aliveness('69.172.86.214', 6262)
