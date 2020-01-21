@@ -5,7 +5,7 @@ import redis
 
 #选择连接的数据库
 db = input('输入数据库:')
-r = redis.Redis(host='69.172.86.215',port=6379,db=0)
+r = redis.Redis(host='127.0.0.1',port=6379,db=0)
 
 #输入要匹配的键名
 id = input('请输入要执匹配的字段：')
