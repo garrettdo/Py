@@ -30,24 +30,24 @@ def tart_tomcat(pid):  # 定义重启方法
     # except IOError, e:
         print (err)
 
-def check_tomcat():  # 定义检查tomcat方法
-    print ("----------------------------")
-    print (date_now, "开始检查 tomcat...")
-    if process_id:  # 如果存在进程ID则往下执行
-        print ("进程已存在，检测url是否能访问...")
-            # 判断是否返回200，另外有可能有其他报错，所以这里用try来写，防止有别的错误。
-            try:
-            response_code = urllib.urlopen(WebUrl).getcode()
-            if response_code == 200:
-                print ("URL访问正常无需重启tomcat...")
-            else:
-                restart_tomcat(process_id)
-        # except IOError:
-        except (ValueError, IOError) as err:
-
-            restart_tomcat(process_id)
-    else:
-        print ("进程不存在,开始执行startup.sh")
-        os.system(StartTomcat)
-
-check_tomcat()
+# def check_tomcat():  # 定义检查tomcat方法
+#     print ("----------------------------")
+#     print (date_now, "开始检查 tomcat...")
+#     if process_id:  # 如果存在进程ID则往下执行
+#         print ("进程已存在，检测url是否能访问...")
+#             # 判断是否返回200，另外有可能有其他报错，所以这里用try来写，防止有别的错误。
+#             try:
+#             response_code = urllib.urlopen(WebUrl).getcode()
+#             if response_code == 200:
+#                 print ("URL访问正常无需重启tomcat...")
+#             else:
+#                 restart_tomcat(process_id)
+#         # except IOError:
+#         except (ValueError, IOError) as err:
+#
+#             restart_tomcat(process_id)
+#     else:
+#         print ("进程不存在,开始执行startup.sh")
+#         os.system(StartTomcat)
+#
+# check_tomcat()
