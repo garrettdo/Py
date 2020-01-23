@@ -42,5 +42,5 @@ def CountDirSize(srcDir):
         print(ele[0] + ":" +str(ele[1]/1024/1024) + " M")
 
 if __name__ == "__main__":
-    srcDir = "c:\\"
+    srcDir = "d:\\下载\\tmp1"
     CountDirSize(srcDir)
