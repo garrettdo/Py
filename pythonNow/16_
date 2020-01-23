@@ -2,7 +2,7 @@
 
 import os
 
-#统计指定目录下各个文件夹的大小，方便观察具体目录的大小
+# 统计指定目录下各个文件夹的大小，方便观察具体目录的大小
 def CountDirSize(srcDir):
     dirSizeDict = {}
     fileSizeDict = {}
@@ -22,20 +22,20 @@ def CountDirSize(srcDir):
                         sizetemp = 0
                     size += sizetemp
             dirSizeDict[fileList] = size
-    #按照从大到小的顺序降序排列
+    # 按照从大到小的顺序降序排列
     dirSizeDict = sorted(dirSizeDict.items(),key = lambda dirSizeDict:dirSizeDict[1],reverse = True)
     Sum = 0
-    #各个目录占用空间
+    # 各个目录占用空间
     print("Each directory takes up space:")
     for ele in dirSizeDict:
         temp = ele[1]/1024/1024
         Sum += temp
-        #以单位为M，输出大小
+        # 以单位为M，输出大小
         print(ele[0] + ":" + str(temp) + " M")
-    #以单位为G，输出大小
+    # 以单位为G，输出大小
     print("Total use:" + str(Sum / 1024) +" G")
     print("")
-    #前20个大文件占用空间
+    # 前20个大文件占用空间
     print("Top 20 large file takes up space:")
     fileSizeDict = sorted(fileSizeDict.items(),key = lambda fileSizeDict:fileSizeDict[1],reverse = True)
     for ele in fileSizeDict[:20]:
