@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapp/backup/bak20200221/awx-playbook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapp/backup/bak20200221/encryption-string" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapp/backup/bak20200221/nginx-conf-web-qy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapp/backup/bak20200221/om-scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapp/backup/bak20200221/production-docs" vcs="Git" />
   </component>
 </project>
